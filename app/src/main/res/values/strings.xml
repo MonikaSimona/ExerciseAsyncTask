@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Who Wrote It</string>
+    <string name="instructions">Enter a book name!</string>
+
 </resources>
